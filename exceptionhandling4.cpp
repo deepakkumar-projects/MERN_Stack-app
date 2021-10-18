@@ -15,7 +15,7 @@ void fun(int x)
 	}
 	catch(double d)   
 	{
-		cout<<"the x value should not be zero"<<endl;
+		cout<<"the x has value should not be zero"<<endl;
 	}
 	catch(...)   //default catch block
 	{
